@@ -1,0 +1,78 @@
+
+.parent{
+  border: 1px solid red;
+  /* height: 100px; */
+  /* width: 100px; */
+  /* color: #1852c6; */
+  /* color:#FEA1BF; */
+  background-color:rgb(1, 0, 0) ;
+  padding-bottom: 30px;
+ 
+}
+
+.img1{
+  width:40px;
+  margin-left: 300px;
+  margin-top: 20px;
+
+}
+
+
+a{
+  color: rgb(241, 241, 241);
+  font-size: 16px;
+  font-family: cursive;
+  /* font-weight: bold; */
+  font-weight: lighter;
+  text-decoration: none;
+  margin-left: 50px;
+ 
+
+}
+
+
+h1{
+
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+}
+
+
+
+
+/* km
+m
+foot
+inch 
+cm 
+mm
+px 
+
+*/
+
+/* box model padding , border , margin  */
+
+
+.box_model{
+  border: 10px solid red;
+  
+  padding: 50px;
+  /* margin-right: 50px; */
+  margin: 50px;
+}
+
+button{
+  padding: 30px 50px;
+  /* padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px; */
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+
+}

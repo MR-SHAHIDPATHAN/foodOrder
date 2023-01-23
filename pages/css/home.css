@@ -1,0 +1,56 @@
+
+/* selectors 
+
+id
+class
+tag
+universal selector * 
+
+
+
+
+*/
+
+*{
+  background-color: black;
+
+}
+p{
+  color: red;
+}
+
+h1{
+  color: blue;
+}
+
+#heading{
+  color: pink;
+}
+
+#header{
+  color: yellow;
+}
+
+
+.ptag{
+  color: aqua;
+}
+
+.ptags{
+  background-color: red;
+}
+/* 
+img{
+  width: 100px;
+} */
+
+#img1{
+  width: 200px;
+}
+
+
+/* 
+
+
+
+*/
